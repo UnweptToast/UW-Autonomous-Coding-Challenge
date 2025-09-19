@@ -65,13 +65,3 @@ This project estimates the trajectory of an ego-vehicle using stereo RGB-D (dept
 
 - **Trajectory plot**: see `trajectory.png`. The path starts at (0,0), moves mostly forward (+X) with small lateral deviations (+/−Y).  
 - **Optional video**: see `trajectory.mp4` (if generated). Shows motion of ego‐vehicle over time, color-coded by frame index.
-
----
-
-## Instructions to Run
-
-1. Clone the repository.  
-2. Ensure you have the dataset in `dataset/xyz/` and `dataset/bboxes_light.csv`.  
-3. Install dependencies (see `requirements.txt`):  
-   ```bash
-   pip install -r requirements.txt
