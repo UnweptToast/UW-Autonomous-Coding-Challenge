@@ -55,13 +55,4 @@ This project estimates the trajectory of an ego-vehicle using stereo RGB-D (dept
 
 ## Results
 
-| Metric | Value / Observation |
-|---|---|
-| Total displacement | ~ \<your total forward distance\> meters |
-| Lateral drift | ~ \<how far left/right you moved\> meters |
-| Number of valid frames used | \<number\> / \<total frames\> |
-| Frames skipped due to invalid depth | \<number\> |
-| Smoothness (optional) | (If applied) raw points showed jitter; applying median / interpolation reduced it by \<qualitative or quantitative measure\>. |
-
-- **Trajectory plot**: see `trajectory.png`. The path starts at (0,0), moves mostly forward (+X) with small lateral deviations (+/−Y).  
-- **Optional video**: see `trajectory.mp4` (if generated). Shows motion of ego‐vehicle over time, color-coded by frame index.
+- **Trajectory plot**: see `trajectory.png`.
