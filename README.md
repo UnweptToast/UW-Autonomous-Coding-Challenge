@@ -47,3 +47,4 @@ This project estimates the trajectory of an ego-vehicle using stereo RGB-D (dept
 ## Results
 
 - **Trajectory plot**: see `trajectory.png`.
+- **Trajectory animation**: see `trajectory.mp4`.
