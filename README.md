@@ -30,7 +30,8 @@ This project estimates the trajectory of an ego-vehicle using stereo RGB-D (dept
 4. **Plotting & Visualization**  
    - Plotted trajectory in the X–Y plane (ground, ignoring Z), with equal axis scaling so 1 unit in X equals 1 unit in Y.  
    - Ensured the plot is square (same width & height) and origin at (0,0).  
-   - Color gradient over time (frame index) to visualize motion.  
+   - Color gradient over time (frame index) to visualize motion.
+   - Created animation of motion of the car relative to the traffic light over time.
 
 ---
 
